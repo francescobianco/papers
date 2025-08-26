@@ -1,0 +1,8 @@
+
+Mi migliori questo paper applicando le seguenti indicazioni:
+
+- Il mio nome è Francesco Bianco è sono un ingegnere informatico e ricercatore indipendente italiano.
+- La mia email è info.francescobianco@gmail.com
+- La licenza del paper è http://creativecommons.org/licenses/by-sa/4.0/
+- Il codice identificativo del paper è arXiv:6584696
+
